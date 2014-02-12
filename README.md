@@ -1,7 +1,7 @@
 TiltToView
 ==========
 
-Example of scrolling an Android ImageView by tilting the phone. Similar to Facebook Paper.
+Example of scrolling an Android ImageView by tilting the phone, similar to Facebook Paper.
 
 The main logic is in onSensorChanged:
 ```java
