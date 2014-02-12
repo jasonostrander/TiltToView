@@ -20,6 +20,8 @@ The main logic is in onSensorChanged:
 ```
 Smoothing is applied to the raw sensor values to filter small changes. Image bounds are checked to ensure the image is not scrolled past the edges.
 
+Thanks to [Romain Guy](https://twitter.com/romainguy) for the Golden Gate image.
+
 # License
 The MIT License (MIT)
 
